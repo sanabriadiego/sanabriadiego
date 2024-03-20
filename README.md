@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanabriadiego
 - 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently improving my ML skills
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me sanabria.diego.p@gmail.com
 
